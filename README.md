@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JackGreenaway
+- 👀 I’m interested in Python & SQL
+- 🌱 I’m currently learning Python
+- 📫 How to reach me LinkedIn - https://www.linkedin.com/in/jack-greenaway/
