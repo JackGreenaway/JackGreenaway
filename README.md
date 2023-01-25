@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Jack 😁</h1>
 <h3 align="center">I'm a Financial Technology student interested in machine learning and blockchain technologies</h3>
-<h3 align="center">Presently, I am improving my skills in machine learning, utilisng tools such as TensorFlow and Prophet, and Keras. However, I am keen to expand my skillset in software development in general</h3>
+<h3 align="center">Presently, I am improving my skills in machine learning, utilisng tools such as TensorFlow, Prophet, and Keras. However, I am keen to expand my skillset in software development in general</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
