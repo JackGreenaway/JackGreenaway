@@ -1,20 +1,23 @@
 <h1 align="center">Jack Greenaway</h1>
 <h3 align="center">A Financial Technology student interested in machine learning, and quantitative finance</h3>
-<h3 align="center">Welcome to my GitHub profile! I am a student with expertise in Python programming, machine learning, and full-stack web development. My repositories contain projects that showcase my technical skills and passion for learning new technologies. Here are some highlights of my work:
+<h3 align="center">Welcome to my GitHub profile! 
+  
+<h4 align="center">I am a student with expertise in Python programming, machine learning, and full-stack web development. My repositories contain projects that showcase my technical skills and passion for learning new technologies. Here are some highlights of my work:</h4>
 
-  <h4 align="center">Machine Learning Projects</h4>
-I have developed several machine learning projects using Python libraries such as scikit-learn, TensorFlow, and Keras. Some of my projects include LSTM forecasting, and RNN for classificaiton of credit applicants.
+<h3 align="center">Machine Learning Projects</h3>
 
-Full-Stack Web Development
-I have experience in developing full-stack web applications using technologies such as StreamLit, and Tkinter. I have worked on projects that enable users to view, analyse and forecast real-time stock data utilising machine learning
+<h4 align="center">I have developed several machine learning projects using Python libraries such as scikit-learn, TensorFlow, and Keras. Some of my projects include LSTM forecasting, and RNN for classificaiton of credit applicants.</h4>
+
+<h3 align="center">Full-Stack Web Development</h3>
+<h4 align="center">I have experience in developing full-stack web applications using technologies such as StreamLit, and Tkinter. I have worked on projects that enable users to view, analyse and forecast real-time stock data utilising machine learning</h4>
 
 Python Programming
-I am proficient in Python programming and have worked on projects that demonstrate my understanding of the language's concepts and libraries. Some of my projects include data analysis and visualization, web scraping, and market analysis. Check out my repository for more details.
+<h4 align="center">I am proficient in Python programming and have worked on projects that demonstrate my understanding of the language's concepts and libraries. Some of my projects include data analysis and visualization, web scraping, and market analysis. Check out my repository for more details.</h4>
 
-Other Projects
-In addition to the above, I have worked on other projects that showcase my problem-solving skills and creativity. Some of my projects include creating trading bots utlising mean-reversion and mometum based stratergies. Moreover, I have utlised Modern Portfolio Theory to create a function capable of weighting portfolios based upon histoical performance
+<h3 align="center">Other Projects</h3>
+<h4 align="center">In addition to the above, I have worked on other projects that showcase my problem-solving skills and creativity. Some of my projects include creating trading bots utlising mean-reversion and mometum based stratergies. Moreover, I have utlised Modern Portfolio Theory to create a function capable of weighting portfolios based upon histoical performance</h4>
 
-Overall, my GitHub profile demonstrates my skills in Python programming, machine learning, and full-stack web development. I am always looking for new challenges and opportunities to learn, so feel free to reach out to me for collaboration or feedback.</h3>
+<h4 align="center">Overall, my GitHub profile demonstrates my skills in Python programming, machine learning, and full-stack web development. I am always looking for new challenges and opportunities to learn, so feel free to reach out to me for collaboration or feedback.</h4>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
