@@ -6,7 +6,7 @@
 <h2 align="left">Machine Learning Projects</h2>
 <h4 align="left">• I have developed several machine learning projects using Python libraries such as scikit-learn, TensorFlow, and Keras. Some of my projects include LSTM forecasting, and RNN for classificaiton of credit applicants.</h4>
 
-<h3 align="left">Full-Stack Web Development</h3>
+<h2 align="left">Full-Stack Web Development</h2>
 <h4 align="left">• I have experience in developing full-stack web applications using technologies such as StreamLit, and Tkinter. I have worked on projects that enable users to view, analyse and forecast real-time stock data utilising machine learning</h4>
 
 <h2 align="left">Python Programming</h2>
