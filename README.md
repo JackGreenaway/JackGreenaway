@@ -2,7 +2,7 @@
 <h3 align="center">A Financial Technology student interested in machine learning, and quantitative finance</h3>
 <h3 align="center">Welcome to my GitHub profile! I am a student with expertise in Python programming, machine learning, and full-stack web development. My repositories contain projects that showcase my technical skills and passion for learning new technologies. Here are some highlights of my work:
 
-Machine Learning Projects
+  <h4 align="center">Machine Learning Projects</h4>
 I have developed several machine learning projects using Python libraries such as scikit-learn, TensorFlow, and Keras. Some of my projects include LSTM forecasting, and RNN for classificaiton of credit applicants.
 
 Full-Stack Web Development
