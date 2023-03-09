@@ -16,6 +16,8 @@
 <h2 align="left">Other Projects</h2>
 <h4 align="left">• In addition to the above, I have worked on other projects that showcase my problem-solving skills and creativity. Some of my projects include creating trading bots utlising mean-reversion and mometum based stratergies. Moreover, I have utlised Modern Portfolio Theory to create a function capable of weighting portfolios based upon histoical performance</h4>
 
+<h2></h2>
+
 <h4 align="center">Overall, my GitHub profile demonstrates my skills in Python programming, machine learning, and full-stack web development. I am always looking for new challenges and opportunities to learn, so feel free to reach out to me for collaboration or feedback.</h4>
 
 <h3 align="center">Connect with me:</h3>
