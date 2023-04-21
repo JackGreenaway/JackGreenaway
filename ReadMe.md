@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 I am currently working on an application of neural networks for the classification of credit applicants with comparisons to traditional methods<br>🪴 I am interested in machine learning, with my current focus being on expanding my practical ability and understanding of MLOps 
+Hi, I'm Jack, a MSc Financial Technology student with a keen interest in machine learning. I am currently, expanding my already brilliant knowledge in this domain, and I invite you to have to look at my current and past projects<br>🔭 I am currently working on an application of neural networks for the classification of credit applicants with comparisons to traditional methods<br>🪴 I am interested in machine learning, with my current focus being on expanding my practical ability and understanding of MLOps 
 
 
 ## 🌐 Socials:
